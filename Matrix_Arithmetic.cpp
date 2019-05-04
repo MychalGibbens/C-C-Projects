@@ -1,4 +1,5 @@
 //ECE222
+//A simple .cpp program to multiply, add, or subtract an nxn matrix.
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
