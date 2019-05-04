@@ -1,3 +1,7 @@
+//ECE222
+/*This is an implementaton of a simple "restaurant" for the user. More menu options could be added to the case statement with 
+relative ease. */
+
 #include<iostream>
 using namespace std;
 
