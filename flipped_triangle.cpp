@@ -1,3 +1,4 @@
+//ECE222	Printing an inverse triangle
 #include <iostream>
 using namespace std;
 
@@ -18,3 +19,5 @@ int main() {
 	}
 	return 0;
 }
+
+
