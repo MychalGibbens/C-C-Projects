@@ -1,4 +1,4 @@
-ECE222
+//ECE222	Simple arithmetic of two user-defined values
 #include<iostream>
 using namespace std;
 int main()
