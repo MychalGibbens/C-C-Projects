@@ -1,4 +1,5 @@
-ECE222
+//ECE222
+//.cpp program to convert temperatures from Celsius to Fahrenheit, Celsius to Kelvin, or Fahrenheit to Celsius
 #include<iostream>
 using namespace std;
 float celtoFah(float);
