@@ -1,0 +1,14 @@
+watch
+apple
+lamp
+book
+cup
+phone
+bowl
+mother
+ball
+silver
+gold
+car
+window
+chair
